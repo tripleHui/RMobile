@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "727539907801",
+    "firebase_url": "https://rmobiledemo.firebaseio.com",
+    "project_id": "rmobiledemo",
+    "storage_bucket": "rmobiledemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727539907801:android:cc295746bf128809",
+        "android_client_info": {
+          "package_name": "com.example.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727539907801-lf5begqs87pgtfhg4mqeslfdu9scer5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testapp",
+            "certificate_hash": "224041349b799c425b6a9d266e29977549f23304"
+          }
+        },
+        {
+          "client_id": "727539907801-51kvo314a8mg5s071v6os4bq2lac37ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf-3ogqZ0bUWzbJGs8ZlE_sbEeN52CL30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727539907801-51kvo314a8mg5s071v6os4bq2lac37ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
